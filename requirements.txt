@@ -1,0 +1,7 @@
+python-ffmpeg
+munch
+opencv-python-headless
+ffmpeg-python
+scikit-image
+pillow
+tdqm
